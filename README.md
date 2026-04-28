@@ -6,7 +6,7 @@
 
 [![Status](https://img.shields.io/badge/status-in%20progress-brightgreen)]()
 [![Platform](https://img.shields.io/badge/platform-Webminal-blue)]()
-[![Lessons](https://img.shields.io/badge/lessons-3%20completed-orange)]()
+[![Lessons](https://img.shields.io/badge/lessons-6%20completed-orange)]()
 
 > A structured, hands-on Linux learning journey using the [Webminal](https://www.webminal.org/) platform.  
 > Each lesson includes commands executed, observations, and key takeaways.
@@ -28,8 +28,9 @@
 | 1 | [Basic Commands to Navigate Directories](./01_Lessons/lesson1.md) | ✅ Completed | Basic Commands to Navigate Directories |
 | 2 | [Create Files, Display Contents and Stats](./01_Lessons/lesson2.md) | ✅ Completed  | Create Files, Display Contents and Stats |
 | 3 | [Copy, Rename, Delete Files](./01_Lessons/lesson3.md) | ✅ Completed  | Copy, Rename, Delete Files |
-| 4 | 🔜 Next lesson | ⏳ Pending | ⏳ Pending |
-| 5 | 🔜 Next lesson | ⏳ Pending | ⏳ Pending |
+| 4 |  [Basic Process Commands](./01_Lessons/lesson4.md) | ✅ Completed  | Basic Process Commands |
+| 5 | [Manipulate or Parse File Contents](./01_Lessons/lesson5.md) | ✅ Completed  | Manipulate or Parse File Contentss |
+| 5 | [Changing File Attributes](./01_Lessons/lesson6.md) | ✅ Completed  | Changing File Attributes |
 ---
 
 ## 🛠️ Environment
