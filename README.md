@@ -30,7 +30,12 @@
 | 3 | [Copy, Rename, Delete Files](./01_Lessons/lesson3.md) | ✅ Completed  | Copy, Rename, Delete Files |
 | 4 |  [Basic Process Commands](./01_Lessons/lesson4.md) | ✅ Completed  | Basic Process Commands |
 | 5 | [Manipulate or Parse File Contents](./01_Lessons/lesson5.md) | ✅ Completed  | Manipulate or Parse File Contentss |
-| 5 | [Changing File Attributes](./01_Lessons/lesson6.md) | ✅ Completed  | Changing File Attributes |
+| 6 | [Changing File Attributes](./01_Lessons/lesson6.md) | ✅ Completed  | Changing File Attributes |
+| 7 | [Locate file and its type](./01_Lessons/lesson7.md) |   | Locate file and its type|
+| 8 | [System and user details](./01_Lessons/lesson8.md) |  | System and user details |
+| 9 | [ Linux Process Basic commands](./01_Lessons/lesson9.md) |   |  Linux Process Basic commands |
+| 10  | [ Background process](./01_Lessons/lesson10.md) |   |  Background process |
+| 11 | [Linux Process states](./01_Lessons/lesson11.md) |   | Linux Process states |
 ---
 
 ## 🛠️ Environment
