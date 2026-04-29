@@ -6,7 +6,7 @@
 
 [![Status](https://img.shields.io/badge/status-in%20progress-brightgreen)]()
 [![Platform](https://img.shields.io/badge/platform-Webminal-blue)]()
-[![Lessons](https://img.shields.io/badge/lessons-6%20completed-orange)]()
+[![Lessons](https://img.shields.io/badge/lessons-7%20completed-orange)]()
 
 > A structured, hands-on Linux learning journey using the [Webminal](https://www.webminal.org/) platform.  
 > Each lesson includes commands executed, observations, and key takeaways.
@@ -31,7 +31,7 @@
 | 4 |  [Basic Process Commands](./01_Lessons/lesson4.md) | ✅ Completed  | Basic Process Commands |
 | 5 | [Manipulate or Parse File Contents](./01_Lessons/lesson5.md) | ✅ Completed  | Manipulate or Parse File Contentss |
 | 6 | [Changing File Attributes](./01_Lessons/lesson6.md) | ✅ Completed  | Changing File Attributes |
-| 7 | [Locate file and its type](./01_Lessons/lesson7.md) |   | Locate file and its type|
+| 7 | [Locate file and its type](./01_Lessons/lesson7.md) | ✅ Completed | Locate file and its type|
 | 8 | [System and user details](./01_Lessons/lesson8.md) |  | System and user details |
 | 9 | [ Linux Process Basic commands](./01_Lessons/lesson9.md) |   |  Linux Process Basic commands |
 | 10  | [ Background process](./01_Lessons/lesson10.md) |   |  Background process |
