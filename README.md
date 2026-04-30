@@ -32,7 +32,7 @@
 | 5 | [Manipulate or Parse File Contents](./01_Lessons/lesson5.md) | ✅ Completed  | Manipulate or Parse File Contentss |
 | 6 | [Changing File Attributes](./01_Lessons/lesson6.md) | ✅ Completed  | Changing File Attributes |
 | 7 | [Locate file and its type](./01_Lessons/lesson7.md) | ✅ Completed | Locate file and its type|
-| 8 | [System and user details](./01_Lessons/lesson8.md) |  | System and user details |
+| 8 | [System and user details](./01_Lessons/lesson8.md) | ✅ Completed | System and user details |
 | 9 | [ Linux Process Basic commands](./01_Lessons/lesson9.md) |   |  Linux Process Basic commands |
 | 10  | [ Background process](./01_Lessons/lesson10.md) |   |  Background process |
 | 11 | [Linux Process states](./01_Lessons/lesson11.md) |   | Linux Process states |
