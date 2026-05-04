@@ -6,7 +6,7 @@
 
 [![Status](https://img.shields.io/badge/status-in%20progress-brightgreen)]()
 [![Platform](https://img.shields.io/badge/platform-Webminal-blue)]()
-[![Lessons](https://img.shields.io/badge/lessons-7%20completed-orange)]()
+[![Lessons](https://img.shields.io/badge/lessons-10%20completed-orange)]()
 
 > A structured, hands-on Linux learning journey using the [Webminal](https://www.webminal.org/) platform.  
 > Each lesson includes commands executed, observations, and key takeaways.
@@ -34,7 +34,7 @@
 | 7 | [Locate file and its type](./01_Lessons/lesson7.md) | ✅ Completed | Locate file and its type|
 | 8 | [System and user details](./01_Lessons/lesson8.md) | ✅ Completed | System and user details |
 | 9 | [ Linux Process Basic commands](./01_Lessons/lesson9.md) | ✅ Completed  |  Linux Process Basic commands |
-| 10  | [ Background process](./01_Lessons/lesson10.md) |   |  Background process |
+| 10  | [ Background process](./01_Lessons/lesson_10.md) | ✅ Completed |  Background process |
 | 11 | [Linux Process states](./01_Lessons/lesson11.md) |   | Linux Process states |
 ---
 
