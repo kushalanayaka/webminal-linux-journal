@@ -35,7 +35,7 @@
 | 8 | [System and user details](./01_Lessons/lesson8.md) | ✅ Completed | System and user details |
 | 9 | [ Linux Process Basic commands](./01_Lessons/lesson9.md) | ✅ Completed  |  Linux Process Basic commands |
 | 10  | [ Background process](./01_Lessons/lesson_10.md) | ✅ Completed |  Background process |
-| 11 | [Linux Process states](./01_Lessons/lesson11.md) |   | Linux Process states |
+| 11 | [Linux Process states](./01_Lessons/lesson_11.md) |   ✅ Completed | Linux Process states |
 ---
 
 ## 🛠️ Environment
